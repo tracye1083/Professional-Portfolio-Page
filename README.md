@@ -1,18 +1,25 @@
 # Tracy's Professional Portfolio
 
-Creation of the second of many versions of my portfolio which includes samples of my recent work. Website established using HTML, CSS and JS. This is a work in progress that will be continually updated as time goes on.
+## Description
+
+Creation of the second of many versions of my portfolio which includes samples of my recent work. Website established using HTML, Bootsrtap CSS and JS. This is a work in progress that will be continually updated as time goes on.
 ***
+
 [Tracy Angell's Professional Portfolio Page](https://tracye1083.github.io/Professional-Portfolio-Page)
 ***
-**SCREENSHOT**
+
+## Screenshot
+
 ![Preview of Page](Assets/images/Screenshot.png)
 ***
 
-**CONTACT INFORMATION**
+## Contact Information
 
-Tracy Angell, can be contacted via <a href="https://github.com/tracye1083">GitHub</a>
+Tracy Angell, can be contacted via [GitHub](https://github.com/tracye1083)
 ***
-**LICENSE**
+
+## License
+
 MIT License
 
 Copyright (c) 2021 Tracy Angell
