@@ -9,7 +9,7 @@
 /* CUSTOM COLORS */
 
 :root {
-    --blue-1: #0fb0e698;
+    --blue-1: #0fb0e6a9;
     --white: #fff;
 }
 
@@ -105,16 +105,16 @@ footer {
     padding-bottom: 200px;
 }
 
-.card-img {
-    flex-basis: 400px;
-    max-height: 300px;
-    max-width: 600px;
-}
-
 .card-img:first-of-type {
     flex-basis: 425px;
-    max-height: 325px;
+    max-height: 400px;
     max-width: 650px;
+}
+
+.card-img {
+    flex-basis: 350px;
+    max-height: 300px;
+    max-width: 200px;
 }
 
 .card-img {
