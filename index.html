@@ -19,7 +19,7 @@
 <body id="home">
     <header class="header sticky-top">
         <!-- Navbar with functionality and responsiveness -->
-        <nav class="navbar navbar-expand-sm navbar-light" style="background-color: #0fb0e698;">
+        <nav id="navbar" class="navbar navbar-expand-sm navbar-light" style="background-color: #0fb0e698;">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Angell</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,7 +36,7 @@
                             <a class="nav-link" href="#work">Work</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#resume">Resume</a>
+                            <a class="nav-link" href="./Assets/Resume/Angell_Resume.pdf" download target="_blank">Resume</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#contact-me">Contact Me</a>
@@ -47,7 +47,7 @@
         </nav>
     </header>
 
-    <main>
+    <main data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="0" tabindex="0">
         <!-- brief bio section with headshot -->
         <section id="about-me" class="me">
             <h1>About Me</h1>
@@ -111,7 +111,7 @@
             <h1>Contact Me</h1>
             <ul class="d-flex justify-content-center hmu">
                 <li id="resume">
-                    <a target="_blank" href="https://docs.google.com/document/d/1N907qbYEyD91y3g-ArLywzWBrCn9e55urPdCGIj9BCg/edit?usp=sharing"><img src="./Assets/images/icons/resume.png" alt="Resume Icon" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Resume" /></a>
+                    <a href="./Assets/Resume/Angell_Resume.pdf" download target="_blank"><img src="./Assets/images/icons/resume.png" alt="Resume Icon" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Resume" /></a>
                 </li>
                 <li>
                     <a href="tel:5055034455"><img src="./Assets/images/icons/phone.png" alt="Telephone Reciever" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Call Me" /></a>

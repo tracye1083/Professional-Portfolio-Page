@@ -16,12 +16,18 @@
 
 /* NAVBARS */
 
+
+/* fixed button that allows users to return to top of the page */
+
 .home {
     overflow: hidden;
     position: fixed;
     right: 0;
     bottom: 0;
 }
+
+
+/* navbar styling */
 
 .nav-item {
     font-family: "Spectral SC", sans-serif;
@@ -130,6 +136,9 @@ footer {
     width: 100%;
 }
 
+
+/* Cards have title labels to identify each project and the technologies used */
+
 .work-img .card-title {
     color: var(--white);
     border-radius: 0 var(--default-border-size) var(--default-border-size) 0;
@@ -162,6 +171,7 @@ footer {
 .contact img {
     width: 64px;
     height: 64px;
+    padding: 2px;
 }
 
 .hmu {
