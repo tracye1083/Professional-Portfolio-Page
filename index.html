@@ -137,14 +137,7 @@
             height="30rem" />
     </button>
     <script>
-        // scripting to have Bootstrap Tooltips
-        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-        var tooltipList = tooltipTriggerList.map(function(tooltipTriggerEl) {
-                return new bootstrap.Tooltip(tooltipTriggerEl)
-            })
-            // enable tooltip functionality as they are defaulted as disabled
-        tooltip.toggleEnabled()
-            // enable scroll to top button
+        // enable scroll to top button
         function scrollToTop() {
             window.scrollTo(0, 0);
         }
