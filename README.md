@@ -2,15 +2,7 @@
 
 ## Description
 
-Creation of the second of many versions of my portfolio which includes samples of my recent work.This is a work in progress that will be continually updated as time goes on.
-
-***
-
-## Technologies
-
-- HTML
-- Bootstrap CSS
-- JavaScript
+Creation of the third of many versions of my portfolio which includes samples of my recent work. This is a work in progress that will be continually updated as time goes on.
 
 ***
 
