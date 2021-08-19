@@ -6,14 +6,6 @@ Creation of the third of many versions of my portfolio which includes samples of
 
 ***
 
-## Technologies
-
-- HTML
-- Bootstrap CSS
-- JavaScript
-
-***
-
 ## Links
 
 - [Tracy Angell's Professional Portfolio Page](https://tracye1083.github.io/Professional-Portfolio-Page)
